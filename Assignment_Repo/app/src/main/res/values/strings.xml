@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_Repo</string>
+    <string name="facebook">Sign in With <b>Facebook</b></string>
+    <string name="google">Sign in With <b>Google</b></string>
+    <string name="twitter">Sign in With <b>Twitter</b></string>
+    <string name="signin">Sign in With <b>Email</b></string>
+    <string name="signup">Sign up With <b>Email</b></string>
+
+</resources>
